@@ -6,7 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-
+        // UPDATE TRY     
+        
         // 1
         String usedMethod_1 = test(21, 30);
         System.out.println(usedMethod_1);
